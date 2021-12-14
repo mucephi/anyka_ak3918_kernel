@@ -20,4 +20,4 @@ ak39_producer_defconfig
 ak39_sdk3910_defconfig
 ```
 
-![This is an image](./board-config.png)
+![This is an image](./board-config.jpg)
