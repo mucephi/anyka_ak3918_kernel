@@ -19,5 +19,13 @@ ak39_micro_defconfig
 ak39_producer_defconfig
 ak39_sdk3910_defconfig
 ```
+## Achievements:
+
+tun.ko => Universal TUN/TAP device driver.
+TUN/TAP driver is responsible for create virtual network devices; most common VPNs connections goes through this device.
+
+edge => P2P VPN client.
+edge its a virtual private network client, it gives the camera the capability to being visible outside the local network. For more information about this VPN client see: https://github.com/ntop/n2n  
+
 
 ![This is an image](./board-config.jpg)
